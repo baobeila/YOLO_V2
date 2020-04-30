@@ -1,2 +1,11 @@
 # YOLO_V2
-surface defects detecting    Object Detection One Stage
+surface defects detecting     
+
+Bag of tricks
+- Piecewise_constant and exponential_decay learning rate
+- Gradient clipping
+- Exponential moving average
+- Batch Normalization
+- Early stoping
+
+## Data analysis
