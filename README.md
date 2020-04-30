@@ -10,3 +10,6 @@ Bag of tricks
 
 ## Data analysis
 ![image](https://github.com/baobeila/YOLO_V2/blob/master/images/scale.png)
+## Results
+![image](https://github.com/baobeila/YOLO_V2/blob/master/images/final.PNG)
+![image](https://github.com/baobeila/YOLO_V2/blob/master/images/photo_7.jpg)
