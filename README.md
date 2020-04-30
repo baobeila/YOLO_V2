@@ -9,3 +9,4 @@ Bag of tricks
 - Early stoping
 
 ## Data analysis
+![image](https://github.com/baobeila/YOLO_V2/blob/master/images/scale.png)
